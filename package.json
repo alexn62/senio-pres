@@ -1,0 +1,22 @@
+{
+  "name": "senior-pres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexn62/senio-pres.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexn62/senio-pres/issues"
+  },
+  "homepage": "https://github.com/alexn62/senio-pres#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
